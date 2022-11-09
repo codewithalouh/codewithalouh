@@ -1,5 +1,6 @@
-<h1 align="center">Hi 👋, I'm Alouh Sperk</h1>
-<h3 align="center">I'm a Programmer and Cyber Security Enthusiast from Philippine🇵🇭s</h3>
+<h1 align="center">Hi 👋, 
+I'm Alouh Sperk</h1>
+<h3 align="center">I'm a Programmer and Cyber Security Enthusiast from Philippines 🇵🇭</h3>
 
 - 🌱 I’m currently learning **PHP, Django, and MySQL**
 
